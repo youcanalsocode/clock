@@ -1,0 +1,28 @@
+.container {
+  border: 2px solid black;
+  display: grid;
+  place-items: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 25%;
+}
+.contain {
+  /* border: 2px solid green; */
+  display: flex;
+  margin: 10px;
+  width: 300px;
+  height: 60px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.in {
+  width: 40px;
+  height: 45px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+p {
+  font-weight: bold;
+  font-size: 30px;
+}
